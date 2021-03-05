@@ -4,6 +4,16 @@
 **Discord:** venom#2849
 **Telegram:** @SolidVacuum
 
+## Summary
+My life was easygoing and fun for too long so I've decided to learn frontend to feel some pain :D
+## Code example
+```
+const showJoke = () => {
+  console.log('Why do C# and Java developers keep breaking their keyboards?');
+  console.log('Because they use a strongly typed language.');
+};
+```
+
 ## Skills
 - HTML, CSS
 - JavaScript
