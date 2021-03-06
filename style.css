@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 900px;
+    box-shadow: 10px 10px 40px 0px rgba(0,0,0,0.6);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c1c5c7;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    align-items: center;
+    background-color: #c1c5c7;
+}
+
+main {
+    background-color: #eeeeee;
+    color: #444444;
+    padding: 0 10%;
+    font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+
+.name {
+    margin: 10px;
+    font-size: 25px;
+    color: #444444;
+    text-transform: uppercase;
+    font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+
+.contacts {
+    margin: 10px;
+    color: #444444;
+    font-family: Segoe UI,Helvetica,Arial,sans-serif;
+}
+
